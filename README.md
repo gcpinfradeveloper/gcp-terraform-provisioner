@@ -68,7 +68,7 @@ IAM: Service Accounts, Roles, Quotas & System Limits, Firewalls, Secret Manager
 ```
 * Step 3: Storage
 ```
-Snapshots, Images, Block Storage: Disks, Blob Storage: Cloud Storage
+Snapshots, Images & Machine Images, Block Storage: Disks, Blob Storage: Cloud Storage
 ```
 * Step 4: Compute
 ```
