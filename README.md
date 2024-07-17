@@ -72,7 +72,7 @@ Snapshots, Images, Block Storage: Disks, Blob Storage: Cloud Storage
 ```
 * Step 4: Compute
 ```
-VM Instances, Application Loadbalaner & Network Loadbalancer, Instance Groups, Instance Templates
+VM Instances, Application Loadbalaner & Network Loadbalancer, Instance Groups: Managed, Unmanaged, Instance Templates
 ```
 * Step 5: Databases
 ```
