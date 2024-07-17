@@ -60,7 +60,7 @@ lb_ip:8000
 # Features
 * Step 1: Networking
 ```
-VPC Networks, Subnets, Router, Routes, Public Ips, Network Interface, NAT gateway, Interconnect, Private Link, VPC Peering
+VPC Networks, Subnets, Router, Routes, Public Ips, Network Interface, NAT gateway,  Private Link, VPC Peering, Interconnect
 ```
 * Step 2: Security
 ```
