@@ -60,7 +60,7 @@ lb_ip:8000
 # Features
 * Step 1: Networking
 ```
-VPC Networks, Subnets, Routes, Cloud router, Interconnect, Public Ips, Network Interface, NAT gateway, Load balaner
+VPC Networks, Subnets, Routes, Cloud router, Public Ips, Network Interface, NAT gateway, Interconnect, Private Link, VPC Peering
 ```
 * Step 2: Security
 ```
@@ -72,5 +72,13 @@ Cloud Storage
 ```
 * Step 4: Computing
 ```
-VM Instances
+VM Instances, Load balaner, Instance Group, Instance Template
+```
+* Step 5: Databases
+```
+SQL DB Instance
+```
+* Step 6: Logging
+```
+
 ```
